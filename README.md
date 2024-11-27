@@ -1,7 +1,7 @@
 # Heart Disease Prediction ❤️
 # 📝 Overview
-  This project focuses on using Logistic Regression to predict the likelihood of heart disease in individuals. \
-  By analyzing health metrics and lifestyle factors, the model aims to assist in early detection and promote timely medical intervention.\
+  This project focuses on using Logistic Regression to predict the likelihood of heart disease in individuals. 
+  By analyzing health metrics and lifestyle factors, the model aims to assist in early detection and promote timely medical intervention.
 
 # 🚀 Features
 Data Analysis: Exploratory data analysis (EDA) to uncover patterns and trends.\
