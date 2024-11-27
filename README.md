@@ -13,3 +13,21 @@ User-friendly: Clean and modular code for easy understanding and future updates.
 
 The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).\
 The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
+
+🔧 Installation
+Clone the repository:
+```bash
+Copy code
+git clone https://github.com/your-username/HeartDiseasePrediction.git
+cd HeartDiseasePrediction
+```
+Install dependencies:
+```bash
+Copy code
+pip install -r requirements.txt
+```
+Run the project:
+```bash
+Copy code
+python main.py
+```
