@@ -2,7 +2,7 @@
 
 ## Acknowledgments
 
-This project is based on a tutorial from GeeksforGeeks ([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/)). The original work provided a comprehensive guide, which I followed to develop this project.\
+This project is based on a tutorial from GeeksforGeeks (https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/)). The original work provided a comprehensive guide, which I followed to develop this project.\
 While the structure and concept are inspired by the tutorial, I have made modifications and additions to fit my understanding and requirements.
 
 
@@ -35,3 +35,19 @@ Run the project:
 ```bash
 python main.py
 ```
+# 📈 Model Performance
+Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC.\
+The model achieved an accuracy of 84% during testing.
+
+![Ten Year’s CHD Record of all the patients available in the dataset](https://github.com/user-attachments/assets/643760a7-a0b7-43b1-933b-7f6a3c8e078c)
+![Counting number of patients affected by CHD where (0= Not Affected; 1= Affected)](https://github.com/user-attachments/assets/8f14a47c-b2eb-43e2-8cc6-9ed6f326c042)
+
+![Confusion Matrix](https://github.com/user-attachments/assets/a32e6948-a007-4ece-9668-bf69e8aaac4d)
+![Classification Report](https://github.com/user-attachments/assets/34bd49ad-99c9-4bc3-9f8e-e2eb0d5b75b8)
+
+
+# 🌟 Future Enhancements
+Add more health features for improved predictions.\
+Create a web app or API for easier accessibility.\
+Optimize model performance using advanced techniques like ensemble learning.
+
