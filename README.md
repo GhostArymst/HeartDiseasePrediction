@@ -1,4 +1,11 @@
 # Heart Disease Prediction ❤️
+
+## Acknowledgments
+
+This project is based on a tutorial from GeeksforGeeks ([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/)). The original work provided a comprehensive guide, which I followed to develop this project.\
+While the structure and concept are inspired by the tutorial, I have made modifications and additions to fit my understanding and requirements.
+
+
 # 📝 Overview
   This project focuses on using Logistic Regression to predict the likelihood of heart disease in individuals. 
   By analyzing health metrics and lifestyle factors, the model aims to assist in early detection and promote timely medical intervention.
