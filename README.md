@@ -39,13 +39,13 @@ python main.py
 Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC.\
 The model achieved an accuracy of 84% during testing.
 
-<img src="https://github.com/user-attachments/assets/643760a7-a0b7-43b1-933b-7f6a3c8e078c" alt="Ten Year’s CHD Record of all the patients available in the dataset" width="600"/>
+<img src="https://github.com/user-attachments/assets/643760a7-a0b7-43b1-933b-7f6a3c8e078c" alt="Ten Year’s CHD Record of all the patients available in the dataset" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/8f14a47c-b2eb-43e2-8cc6-9ed6f326c042" alt="Counting number of patients affected by CHD where (0= Not Affected; 1= Affected)" width="600"/>
+<img src="https://github.com/user-attachments/assets/8f14a47c-b2eb-43e2-8cc6-9ed6f326c042" alt="Counting number of patients affected by CHD where (0= Not Affected; 1= Affected)" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/a32e6948-a007-4ece-9668-bf69e8aaac4d" alt="Confusion Matrix" width="600"/>
+<img src="https://github.com/user-attachments/assets/a32e6948-a007-4ece-9668-bf69e8aaac4d" alt="Confusion Matrix" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/34bd49ad-99c9-4bc3-9f8e-e2eb0d5b75b8" alt="Classification Report" width="600"/>
+<img src="https://github.com/user-attachments/assets/34bd49ad-99c9-4bc3-9f8e-e2eb0d5b75b8" alt="Classification Report" width="400"/>
 
 
 
