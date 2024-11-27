@@ -17,17 +17,14 @@ The dataset provides the patients’ information. It includes over 4,000 records
 🔧 Installation
 Clone the repository:
 ```bash
-Copy code
 git clone https://github.com/your-username/HeartDiseasePrediction.git
 cd HeartDiseasePrediction
 ```
 Install dependencies:
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 Run the project:
 ```bash
-Copy code
 python main.py
 ```
